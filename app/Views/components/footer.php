@@ -1,10 +1,10 @@
   <!--Footer Start-->
-  <footer class="footer-style-2">
+  <!-- <footer class="footer-style-2">
          <div class="footer-top wf100">
             <div class="container">
                <div class="row">
                   <div class="col-lg-3 col-sm-6">
-                     <!--Footer Widget Start-->
+                     
                      <div class="footer-widget about-ecova">
                         <div class="f2logo"> <img src="/images/f2logo.png" alt=""> </div>
                         <p>We are Ecova: eco & environmental community. We need your support and help to Stop Globar
@@ -13,10 +13,10 @@
                            adipiscing.</p>
                         <a href="#" class="more">More About Ecova</a>
                      </div>
-                     <!--Footer Widget End-->
+                     
                   </div>
                   <div class="col-lg-3 col-sm-6">
-                     <!--Footer Widget Start-->
+                     
                      <div class="footer-widget">
                         <h5>Current Projects</h5>
                         <ul class="quick-links">
@@ -28,10 +28,10 @@
                            <li><a href="#">Saving Wildlife </a></li>
                         </ul>
                      </div>
-                     <!--Footer Widget End-->
+                     
                   </div>
                   <div class="col-lg-3 col-sm-6">
-                     <!--Footer Widget Start-->
+                     
                      <div class="footer-widget">
                         <h5>Tags</h5>
                         <ul class="ftags">
@@ -47,10 +47,10 @@
                            <li><a href="#">Recycling</a></li>
                         </ul>
                      </div>
-                     <!--Footer Widget End-->
+                     
                   </div>
                   <div class="col-lg-3 col-sm-6">
-                     <!--Footer Widget Start-->
+                     
                      <div class="footer-widget">
                         <h5>Latest Posts</h5>
                         <ul class="lastest-products">
@@ -65,7 +65,7 @@
                                  2018</span> </li>
                         </ul>
                      </div>
-                     <!--Footer Widget End-->
+                     
                   </div>
                </div>
             </div>
@@ -108,12 +108,12 @@
                </div>
             </div>
          </div>
-      </footer>
-      <!--Footer End-->
+      </footer> -->
+     
       <nav class="sidenav">
          <ul class="main">
             <li><a href="index-2.html">Home</a></li>
-            <!-- <li><a href="about.html">About Us</a></li> -->
+    
             <li><a href="events-grid.html">How it Work</a></li>
             <li><a href="#success">Our Success</a></li>
             <li><a href="projects-grid.html">Contact Us</a></li>

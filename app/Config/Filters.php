@@ -38,7 +38,7 @@ class Filters extends BaseConfig
             // 'honeypot',
             // 'csrf',
             // 'invalidchars',
-            'auth' => ['except' => ['login', 'register', 'loginform', 'forgot-password', 'process_otp_verification', 'verify-otp']], // Apply auth filter to all routes except these
+            // 'auth' => ['except' => ['login', 'register', 'loginform', 'forgot-password', 'process_otp_verification', 'verify-otp']], // Apply auth filter to all routes except these
         ],
         'after' => [
             'toolbar',

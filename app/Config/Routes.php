@@ -25,7 +25,7 @@ $routes->match(["get","post"], "/register", 'Home::register');
 $routes->get('/about-us', 'Home::about');
 $routes->get('/privacy-policy', 'Home::privacy');
 $routes->get('/terms-condition', 'Home::terms');
-$routes->get('/support', 'Home::support');
+// $routes->get('/support', 'Home::support');
 
 $routes->get('/logout', 'Home::destroy_session');
 $routes->get('/logout', 'Home::destroy_session');
@@ -39,6 +39,11 @@ $routes->get('/verify-otp', function() {
     }else{
         return redirect()->to(base_url('/register'));
     }
+});
+$routes->get('/support', function() {
+
+        return view('support');
+    
 });
 
 

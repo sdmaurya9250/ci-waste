@@ -398,7 +398,7 @@
       <!--Activities Gallery Section End-->
 
       <!--Current Promises Section Start-->
-      <section class="wf100 p80 text-center">
+      <!-- <section class="wf100 p80 text-center">
          <div class="shadow-lg rounded container">
             <h3 class="text-center pt-3">Your Achievments</h3>
             <div class="row p-5">
@@ -436,11 +436,11 @@
                </div>
             </div>
          </div>
-      </section>
+      </section> -->
       <!--Current Promises Section End-->
 
       <!--Contact Start-->
-      <section class=" shadow-lg mt-5 mb-5 contact-page wf100 p80" id="ContactUs">
+      <!-- <section class=" shadow-lg mt-5 mb-5 contact-page wf100 p80" id="ContactUs">
          <div class="container">
             <div class="row">
                <div class="col-md-6">
@@ -476,11 +476,11 @@
                </div>
             </div>
          </div>
-      </section>
+      </section> -->
       <!--Contact End-->
 
       <!--Partner Logos Section Start-->
-      <div class="partner-logos wf100 mb80">
+      <!-- <div class="partner-logos wf100 mb80">
          <div class="container">
             <div id="partner-logos" class="owl-carousel owl-theme">
                <div class="item"><img src="/images/plogo1.png" alt=""></div>
@@ -495,7 +495,7 @@
                <div class="item"><img src="/images/plogo5.png" alt=""></div>
             </div>
          </div>
-      </div>
+      </div> -->
       <!--Partner Logos Section End-->
       
       <?php include(APPPATH . 'Views/components/footer.php'); ?>
